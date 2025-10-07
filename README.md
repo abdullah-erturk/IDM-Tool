@@ -50,10 +50,12 @@ It can install, activate, or reset IDM with administrative privileges and full s
 🔹 Hybrid Batch + PowerShell architecture
 
 💻 Command Line Parameters
-Parameter	Description
--activate	Automatically activates IDM.
--reset	Resets license and configuration.
--silent	Performs a silent installation with no user interaction.
+| Parameter   | Description                                              |
+| ----------- | -------------------------------------------------------- |
+| `-activate` | Automatically activates IDM.                             |
+| `-reset`    | Resets license and configuration.                        |
+| `-silent`   | Performs a silent installation with no user interaction. |
+
 
 ⚠️ Disclaimer
 
