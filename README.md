@@ -49,6 +49,12 @@ It can install, activate, or reset IDM with administrative privileges and full s
 
 🔹 Hybrid Batch + PowerShell architecture
 
+There is support for the
+-reset
+-activate
+-silent
+parameters via the command line.
+
 ⚠️ Disclaimer
 
 This software is intended for educational and personal use only.
