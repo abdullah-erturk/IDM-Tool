@@ -3,7 +3,7 @@
 
 ## 🧰 IDM Tool (exe version)
 
-![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20exe.jpg?token=GHSAT0AAAAAADMPSUYNFXFZIJMPC3INNBNI2HFILKA)
+![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20exe.jpg)
 
 IDM Tool v2 is a C# utility that automates downloading, installing, and configuring Internet Download Manager (IDM).
 It automatically fetches the latest IDM version, performs a silent installation, and sets up basic user information.
@@ -32,7 +32,7 @@ https://www.virustotal.com/gui/file/d897fb7c6d5116cac7e71d67388e6f17ff3206b080e8
 
 ## 🧰 IDM Tool (Batch + PowerShell Edition - Testing)
 
-![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20powershell.jpg?token=GHSAT0AAAAAADMPSUYMHBJDQDJEJ6IOK5IG2HFIMOQ)
+![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20powershell.jpg)
 
 IDM Tool is a hybrid Batch + PowerShell script designed to automate and manage Internet Download Manager (IDM) operations.
 It can install, activate, or reset IDM with administrative privileges and full silent mode support.
