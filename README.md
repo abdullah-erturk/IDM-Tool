@@ -14,7 +14,7 @@ It automatically fetches the latest IDM version, performs a silent installation,
 
 🔹 Supports silent installation mode
 
-🔹 Adds custom license information (name & email)
+🔹 Adds custom license information (name & surname)
 
 🔹 Terminates running IDM-related processes before setup
 
