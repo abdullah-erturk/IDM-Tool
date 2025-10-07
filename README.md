@@ -30,7 +30,7 @@ https://www.virustotal.com/gui/file/d897fb7c6d5116cac7e71d67388e6f17ff3206b080e8
 
 ---
 
-## 🧰 IDM Tool (Batch + PowerShell Edition)
+## 🧰 IDM Tool (Batch + PowerShell Edition - Testing)
 
 ![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20powershell.jpg?token=GHSAT0AAAAAADMPSUYMHBJDQDJEJ6IOK5IG2HFIMOQ)
 
