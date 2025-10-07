@@ -23,3 +23,30 @@ Please purchase an official IDM license to support the developers.
 VirusTotal:
 https://www.virustotal.com/gui/file/d897fb7c6d5116cac7e71d67388e6f17ff3206b080e8aa728d1d948b1a982950?nocache=1
 
+---
+
+🧰 IDM Tool (Batch + PowerShell Edition)
+
+IDM Tool is a hybrid Batch + PowerShell script designed to automate and manage Internet Download Manager (IDM) operations.
+It can install, activate, or reset IDM with administrative privileges and full silent mode support.
+
+⚙️ Features
+
+🔹 Auto-elevation to administrator mode
+
+🔹 Install, activate, or reset IDM easily
+
+🔹 Silent and forced operation modes
+
+🔹 Advanced error handling and colorized console output
+
+🔹 Hybrid Batch + PowerShell architecture
+
+⚠️ Disclaimer
+
+This software is intended for educational and personal use only.
+Please purchase an official IDM license to support the developers.
+
+VirusTotal:
+https://www.virustotal.com/gui/file/ae7c68e4981f7a09963050dbfaf758780c872967aca0cf2ea076a5f7ef8d51cd?nocache=1
+
