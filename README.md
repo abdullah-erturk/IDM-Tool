@@ -1,5 +1,7 @@
 <a href="https://buymeacoffee.com/abdullaherturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20exe.jpg)
+
 🧰 IDM Tool v2 (exe version)
 
 IDM Tool v2 is a C# utility that automates downloading, installing, and configuring Internet Download Manager (IDM).
@@ -26,6 +28,8 @@ VirusTotal:
 https://www.virustotal.com/gui/file/d897fb7c6d5116cac7e71d67388e6f17ff3206b080e8aa728d1d948b1a982950?nocache=1
 
 ---
+
+![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20powershell.jpg)
 
 🧰 IDM Tool (Batch + PowerShell Edition)
 
