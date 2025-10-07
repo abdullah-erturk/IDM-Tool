@@ -30,7 +30,7 @@ https://www.virustotal.com/gui/file/d897fb7c6d5116cac7e71d67388e6f17ff3206b080e8
 
 ---
 
-## 🧰 IDM Tool (Batch + PowerShell Edition - Testing)
+## 🧰 IDM Tool (Batch + PowerShell Edition - Testing) (only Windows 10 and above)
 
 ![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20powershell.jpg)
 
@@ -64,4 +64,3 @@ Please purchase an official IDM license to support the developers.
 
 VirusTotal:
 https://www.virustotal.com/gui/file/ae7c68e4981f7a09963050dbfaf758780c872967aca0cf2ea076a5f7ef8d51cd?nocache=1
-
