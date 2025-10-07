@@ -5,7 +5,7 @@
 
 ![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20exe.jpg)
 
-IDM Tool v2 is a C# utility that automates downloading, installing, and configuring Internet Download Manager (IDM).
+IDM Tool is a C# utility that automates downloading, installing, and configuring Internet Download Manager (IDM).
 It automatically fetches the latest IDM version, performs a silent installation, and sets up basic user information.
 
 ⚙️ Features
