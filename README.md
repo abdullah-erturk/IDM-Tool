@@ -56,6 +56,11 @@ It can install, activate, or reset IDM with administrative privileges and full s
 | `-reset`    | Resets license and configuration.                        |
 | `-silent`   | Performs a silent installation with no user interaction. |
 
+Note:
+
+- I recommend using the -debug and -force parameters during use.
+- If you get a fake serial error, uninstall IDM with HiBit Uninstaller and reinstall it. Then you can license it with the IDM Tool.
+- The IDM Tool application only performs licensing through Regedit; it does not modify any IDM files. Because of this feature, IDM licensed with this application can be updated without losing the license. (Testing)
 
 ⚠️ Disclaimer
 
