@@ -1,7 +1,7 @@
 <a href="https://buymeacoffee.com/abdullaherturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
-## 🧰 IDM Tool v2 (exe version)
+## 🧰 IDM Tool (exe version)
 
 ![sample](https://raw.githubusercontent.com/abdullah-erturk/IDM-Tool/refs/heads/main/IDMTool%20exe.jpg?token=GHSAT0AAAAAADMPSUYNFXFZIJMPC3INNBNI2HFILKA)
 
