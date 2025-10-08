@@ -20,6 +20,12 @@ It automatically fetches the latest IDM version, performs a silent installation,
 
 🔹 Simple, console-based interface
 
+🔹 The license owner can be determined by the user before the installation
+
+🔹 Applies automatic licensing process for the name specified by the user
+
+🔹Completely disable IDM update
+
 ⚠️ Disclaimer
 
 This software is created for educational and personal use only.
